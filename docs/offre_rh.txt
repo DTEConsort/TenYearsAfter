@@ -1,0 +1,155 @@
+OFFRES DE FORMATION IA – DÉVELOPPEURS & TESTEURS
+Consort Group – Version 1.0 (sept. 2025)
+
+============================================================
+1) SYNTHÈSE & OBJECTIFS
+============================================================
+Finalité : accélérer l’adoption utile, sûre et mesurable de l’IA générative dans le SDLC (Dev & Test).
+Publics : développeurs (Front, Back, Full Stack, Tech Lead) et testeurs (QA manuel, automaticien, QA lead, perf).
+Objectifs pédagogiques (communs) :
+- Comprendre les usages IA à forte valeur dans Dev & Test (code, test, doc, revue, agents).
+- Savoir intégrer l’IA dans l’IDE, les pipelines CI/CD et l’outillage QA en respectant la gouvernance.
+- Produire des artefacts de qualité (code, cas de test, doc) avec supervision humaine et traçabilité.
+- Mesurer l’impact via des KPI de delivery (vélocité, couverture, anomalies, temps doc, adoption).
+
+Bénéfices attendus (benchmarks internes) :
+- Vitesse des tâches simples : +55 %. (Consort Group, 2025, slides 15–16) 
+- Temps documentaire : –45 à –50 %. (Consort Group, 2025, slides 15–16)
+- Couverture des tests fonctionnels : +30 %. (Consort Group, 2025, slides 15–16, 24–25)
+- Anomalies post-release : –25 %. (Consort Group, 2025, slides 16, 29–30)
+Nota : gains indicatifs, à confirmer par baseline avant/après et contexte d’équipe.
+
+============================================================
+2) PARCOURS DÉVELOPPEURS
+============================================================
+FORMAT : modules combinables + coaching “sprint lab”. Groupes 8–12 pers. Intra/inter. Présentiel ou distanciel.
+PRÉREQUIS : maîtrise Git/CI, langage principal (Java/JS/…); IDE (VS Code/IntelliJ), bonnes pratiques Dev.
+
+2.1 MODULE D1 – FONDATIONS “GENAI POUR DEV” (1 jour)
+Objectifs : comprendre l’IA générative appliquée au code et à la documentation; adopter une pratique sûre.
+Contenus clés :
+- Use cases Dev : génération de code, refactoring, debug assisté, doc continue. (slides 5, 22–23, 27–28)
+- Gouvernance : RGPD/IA Act, prompts sécurisés, auditabilité, supervision humaine. (slides 38–41)
+- Outillage : Copilot/Codex/Gemini CLI, intégration IDE; CI/CD et SonarQube. (slides 22–23, 30)
+- Mesure : définition du référentiel KPI d’équipe. (slides 15–16)
+Ateliers : “prompt patterns” pour génération de fonctions et doc README; checklists de revue IA.
+Livrables : playbook fondations, bibliothèques de prompts, gabarits de doc.
+KPI de réussite : >80 % de prompts réutilisables; référentiel KPI validé. (slide 23)
+
+2.2 MODULE D2 – PRATICIEN “CODE GEN & REVIEW” (2 jours)
+Objectifs : produire du code de qualité avec IA; sécuriser les merges; réduire la dette technique.
+Contenus clés :
+- Vibe coding & revues assistées (IA + linters) ; politiques de branches, règles Sonar. (slides 22–23, 29–30)
+- Patterns de prompts (spec→code, ticket→test unitaire); guardrails et tests. (slides 5, 22, 29–30)
+- Intégration CI/CD : qualité, sécurité, couverture; feedback loop d’adoption. (slides 15–16, 23)
+Ateliers : PR commentée par IA, corrections guidées, pipelines de qualité.
+Livrables : librairie de prompts “spec→code”, checklist “review-to-merge”, modèles de pipelines.
+KPI : –25 % d’anomalies post-merge; adoption >60 % après 2 sprints. (slides 23, 29–30)
+
+2.3 MODULE D3 – AVANCÉ “AGENTS & RAG DEV” (2 jours)
+Objectifs : concevoir des workflows augmentés par agents; intégrer RAG pour la doc et le code.
+Contenus clés :
+- Architectures agentiques (LangChain/LangGraph/LangSmith), rôles & supervision. (slides 31–33)
+- RAG et knowledge base projet; doc auto versionnée. (slides 27–28)
+- Observabilité et évaluation continue. (slides 13, 15–16)
+Ateliers : agent superviseur pour “spec→US→code→tests”; RAG projet sur corpus interne.
+Livrables : templates d’agents, jeu de prompts orchestrés, tableaux de bord d’évaluation.
+KPI : review-to-merge réduit; MTTR inférieur; standardisation des livrables. (slides 13, 15)
+
+2.4 COACHING “SPRINT LAB” (4–6 semaines, in situ)
+Objectifs : ancrer les pratiques sur backlog réel; sécuriser la montée en charge.
+Cadre : backlog priorisé, garde-fous sécurité, mesure hebdo des KPI (lead time, couverture, anomalies). (slides 15–16)
+Cible d’impact : vélocité +7 à +18 %; standardisation des revues; réduction dette de doc. (slide 15)
+
+============================================================
+3) PARCOURS TESTEURS / QA
+============================================================
+FORMAT : modules combinables + coaching “sprint lab”. Groupes 8–12 pers. Intra/inter. Présentiel ou distanciel.
+PRÉREQUIS : notions d’ALM (Jira/Xray/TestRail/Zephyr), bases d’automatisation (Selenium/Playwright/RestAssured).
+
+3.1 MODULE T1 – FONDATIONS “GENAI POUR QA” (1 jour)
+Objectifs : cadrer l’usage IA en test; structurer exigences et stratégie; adopter prompts sûrs.
+Contenus clés :
+- Pain points→gains IA; transformation des métiers QA. (slides 8, 10)
+- Stratégie de test assistée par IA; génération initiale de cas; données synthétiques. (slides 24–25)
+- Gouvernance & risques; audit des prompts. (slides 38–41)
+Ateliers : “user story→tests Gherkin”, data set synthétique; grilles d’acceptation.
+Livrables : modèles Gherkin, templates stratégie QA, checklists d’audit prompts.
+KPI : +30 % de couverture ciblée; –35 % temps planification. (slides 15, 25)
+
+3.2 MODULE T2 – PRATICIEN “GEN TESTS & OUTILLAGE” (2 jours)
+Objectifs : industrialiser conception/exécution; intégrer IA aux outils; réduire maintenance.
+Contenus clés :
+- Chaîne de génération encadrée (6 étapes) et intégrations Xray/TestRail/Zephyr. (slide 24)
+- Panorama outils IA test : Testim, mabl, Applitools, Functionize, Diffblue, Katalon… (slide 26)
+- Auto-healing, impact analytics, priorisation intelligente (Sealights). (slide 26)
+Ateliers : pipeline “US→tests→exécution→rapport IA”; intégration dans l’ALM.
+Livrables : scripts d’intégration, prompts d’orchestration, gabarits de reporting.
+KPI : –37 % durée cycle test (100→63 j.h. type); –50 % conception cas. (slides 25)
+
+3.3 MODULE T3 – AVANCÉ “AGENTS QA & QUALITÉ 360” (2 jours)
+Objectifs : piloter la qualité en continu avec agents; analyses prédictives et tests exploratoires augmentés.
+Contenus clés :
+- Agents spécialisés (génération tests, perf, sécurité) et superviseur. (slides 31–33)
+- Dashboards intelligents, alertes, décision Go/No-Go. (slide 10)
+- Observabilité, traçabilité et capitalisation (knowledge hub). (slides 27–28)
+Ateliers : agent “test gap & impact” ; scénarios perf prédictifs; revue IA des résultats.
+Livrables : playbook “Qualité 360”, tableaux de bord, prompts de pilotage.
+KPI : Go/No-Go outillé; réduction des faux positifs visuels; MTTR incidents qualité. (slides 10, 26)
+
+3.4 COACHING “SPRINT LAB QA” (4–6 semaines)
+Objectifs : stabiliser l’automatisation, augmenter la couverture, fiabiliser le reporting.
+Cadre : standardisation Gherkin, auto-réparation, impact analytics; mesure hebdo. (slides 24–26)
+Cible d’impact : +30 % couverture; accélération time-to-test; coût maintenance –50 %. (slides 25–26)
+
+============================================================
+4) MESURE D’IMPACT & ROI
+============================================================
+Méthode : baseline avant/après; suivi hebdomadaire en pilote; bilan en fin de release.
+KPI de référence (benchmarks internes) : (slides 15–16)
+- Vitesse tâches simples; vélocité sprint; review-to-merge; coverage; anomalies post-release.
+- Temps documentaire; adoption (>60 % à 2 sprints pour copilotes). (slide 23)
+Lecture ROI (exemples indicatifs) : (slide 16)
+- Code generation : –45 % coût par release (avec vélocité +30 % et intégration IDE).
+- Test case generation : –30 % coût test + couverture +30 %, détection +25 %.
+- Documentation assistée : –50 % temps; revue humaine légère.
+- Revue automatisée : –25 % anomalies post-release (LLM + linters + règles).
+
+============================================================
+5) MODALITÉS & GOUVERNANCE
+============================================================
+Modalités :
+- Formats : 1 j / 2 j / 2 j + coaching. Maximum 12 participants/instance.
+- Pédagogie : 30–40 % théorie, 60–70 % labs sur environnements client (ou sandbox).
+- Livrables : playbooks, librairies de prompts, checklists, pipelines types, tableaux de bord KPI.
+Gouvernance & conformité :
+- Déploiement on-prem ou cloud privé; RAG sur corpus interne; logs et traçabilité. (slides 23, 28, 36, 38–41)
+- Supervision humaine obligatoire; séparation dev/test, proxies de sécurité. (slides 38–41)
+
+Pré-requis logistiques :
+- Accès ALM (Jira/Xray/TestRail/Zephyr), GitHub/GitLab, SonarQube; IDE; runners CI.
+- Données non sensibles ou sandbox anonymisée; capacité à installer extensions/plug-ins.
+
+============================================================
+6) OPTIONS
+============================================================
+- Train-the-Trainer (TTT) : habilitation champions internes; kit d’animation & évaluation.
+- Parcours “LLM on-prem & Fine-tuning” (2 j) : chaîne souveraine + profils MLOps. (slide 36)
+- Atelier “Éthique & IA responsable” (0,5 j) : principes, cas limites, contrôles. (slides 38–41)
+
+============================================================
+7) RÉFÉRENCES (APA)
+============================================================
+Consort Group. (2025, juillet). L’IA générative au cœur du cycle de développement logiciel : Productivité, Qualité & Industrialisation [Présentation]. DSIA.
+- KPI & ROI observés : slides 15–16.
+- Code generation & pair programming : slides 22–23.
+- Test case generation : slides 24–26.
+- Knowledge assistant (documentation) : slides 27–28.
+- Code review automatisée : slides 29–30.
+- Architecture agentique : slides 31–33.
+- IA Gen deployment (LLM on-prem, fine-tuning) : slides 34–36.
+- Gouvernance, risques & éthique : slides 38–41.
+
+Notes :
+- Les pourcentages de gains sont des repères issus de retours observés et doivent être recalibrés sur votre contexte (baseline + run pilote). (slides 15–16)
+- Les marques citées (Copilot, Codex, Gemini CLI, StarCoder…) sont mentionnées comme exemples d’intégration possibles. (slides 22–23, 30)
