@@ -1,0 +1,2 @@
+# Projet TenYearsAfter
+Atelier d’apprentissage Python + LangChain + agents.
