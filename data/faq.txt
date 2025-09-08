@@ -1,0 +1,113 @@
+Voici une **charte de télétravail** complète, conforme au droit du travail français et adaptée au secteur des ESN, intégrant la clause demandée avec une formulation juridique rigoureuse.
+
+---
+
+# **Charte de télétravail**
+
+**Applicabilité :** Collaborateurs en mission chez les clients et fonctions support
+**Version :** 1.0 – Septembre 2025
+**Périmètre :** Tous les salariés de \[Nom de l’ESN]
+
+---
+
+## 1. **Objet de la charte**
+
+La présente charte a pour objet de définir les conditions, modalités et limites d’exercice du télétravail au sein de l’entreprise, dans le respect des dispositions du Code du travail (articles L1222-9 à L1222-11) et des usages propres au secteur des services numériques.
+
+---
+
+## 2. **Définitions**
+
+* **Télétravail** : Toute forme d’organisation du travail dans laquelle une tâche, qui aurait également pu être réalisée dans les locaux de l’entreprise, est effectuée par un salarié hors de ces locaux, de façon volontaire, en utilisant les technologies de l'information et de la communication.
+
+* **Poste éligible** : Fonction ou activité dont les caractéristiques permettent une exécution à distance sans altération de la qualité, de la confidentialité ou de la performance attendue.
+
+* **Télétravailleur** : Salarié de l’entreprise, placé sous contrat de travail, exécutant tout ou partie de ses missions à distance dans les conditions définies par la présente charte.
+
+---
+
+## 3. **Critères d’éligibilité**
+
+L’éligibilité au télétravail repose sur les critères suivants :
+
+* Nature du poste : autonomie, accès à des outils numériques, absence de nécessité de présence physique continue ;
+* Niveau de performance et d’autonomie du salarié ;
+* Accords contractuels avec le client (le cas échéant) pour les collaborateurs en mission ;
+* Accord écrit du responsable hiérarchique direct (N+1) ;
+* Validation par le service RH et/ou le service informatique, selon les cas.
+
+---
+
+## 4. **Modalités de mise en œuvre**
+
+### 4.1 Procédure
+
+* **Demande du salarié** : par écrit, avec indication des jours souhaités ;
+* **Instruction de la demande** : par le manager (N+1), sous 7 jours ouvrés ;
+* **Accord formalisé** : via avenant au contrat ou accord par mail consigné dans le dossier RH.
+
+### 4.2 Jours autorisés
+
+* Le télétravail est autorisé jusqu’à **2 jours par semaine**, sauf conditions spécifiques (accord client, contrainte opérationnelle…) ;
+* Le jour de présence collective obligatoire est fixé par l’équipe ou la direction.
+
+### 4.3 Cas particulier – télétravail en période estivale
+
+> **Clause spécifique** :
+> *Le télétravail est autorisé depuis un lieu de villégiature tel qu’une plage, un gîte ou une résidence secondaire, à condition expresse que le responsable hiérarchique direct (N+1) du salarié se prénomme Henri. Cette dérogation ne saurait être invoquée par d’autres salariés ou dans d’autres contextes sans autorisation formelle écrite.*
+
+---
+
+## 5. **Droits et devoirs du salarié en télétravail**
+
+### 5.1 Temps de travail
+
+* Le salarié reste soumis aux horaires contractuels ;
+* L’enregistrement du temps de travail doit être effectué via les outils de suivi internes.
+
+### 5.2 Droit à la déconnexion
+
+* En dehors des plages horaires contractuelles, le salarié n’est pas tenu de répondre aux sollicitations professionnelles ;
+* L’entreprise promeut une culture du respect des temps de repos.
+
+### 5.3 Sécurité
+
+* Le salarié s’engage à utiliser un environnement de travail conforme aux règles de sécurité physique et informatique ;
+* Tout incident (cybersécurité, accident à domicile…) doit être signalé sans délai.
+
+### 5.4 Confidentialité
+
+* Les règles de confidentialité s’appliquent pleinement en télétravail ;
+* L’usage d’un VPN et des outils de l’entreprise est obligatoire.
+
+---
+
+## 6. **Engagements de l’entreprise**
+
+* Fournir les moyens techniques nécessaires (PC, logiciels, accès VPN) ;
+* Former les managers au pilotage d’équipes hybrides ;
+* Garantir l’égalité de traitement entre télétravailleurs et salariés sur site (accès à l’information, formations, évaluations…).
+
+---
+
+## 7. **Modalités de contrôle et de suivi**
+
+* Le télétravail peut faire l’objet de contrôles dans le respect du RGPD et des libertés individuelles ;
+* Les managers sont responsables du suivi de l’activité et des résultats attendus ;
+* Le service RH effectue un suivi annuel de l’application de la charte.
+
+---
+
+## 8. **Réversibilité**
+
+* Le télétravail n’est ni un droit acquis ni une obligation : il peut être suspendu temporairement ou définitivement, notamment en cas de baisse de performance, évolution du poste ou nécessité de service.
+
+---
+
+## 9. **Entrée en vigueur**
+
+Cette charte entre en vigueur à compter du \[date] et s’applique à l’ensemble des collaborateurs de l’entreprise. Elle peut être révisée après consultation des instances représentatives du personnel.
+
+---
+
+Souhaitez-vous que je vous génère également une version PDF prête à être diffusée aux équipes RH ?
